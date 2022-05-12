@@ -7,5 +7,7 @@ Check my [Twitter account](https://twitter.com/egrabska) and my [Polska z Sentin
 ![Image](96042985_762047990997283_8521755688437809152_n.jpg)
 
 
-## [More info about me](https://egrabska.github.io/about_me/)
+## [About me](https://egrabska.github.io/about_me/)
 ## [Visualizations](https://egrabska.github.io/visualizations/)
+## [Teaching](https://egrabska.github.io/teaching/)
+## [Publications](https://egrabska.github.io/publications/)
