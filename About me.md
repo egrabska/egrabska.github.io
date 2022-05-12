@@ -4,6 +4,7 @@ title: "About Me"
 permalink: /about_me/
 ---
 
+![Image](273411235_10229225137959531_3374899804318868756_n.jpg)
 
 I am a **geographer** with the research focus on **remote sensing and GIS**. In February 2022, I successfully defended my PhD Dissertation in Earth and enviornmental science. My PhD thesis was entitled  **Use of remote sensing data for temperate mountain forests characteristics**.
 
