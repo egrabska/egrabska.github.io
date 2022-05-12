@@ -9,10 +9,7 @@ GUGIK Poland.
 ![Image](FEdVc9gXwAMNzkY.jpg)
 
 Urban areas in Europe - visualization of night lights from Visible Infrared Imaging Radiometer Suite (VIIRS) downloaded from Google Earth Engine, made in QGIS.
-![Image](FEUfgH4WYAQUQO- (1).jpg)
-
-Urban green areas in selected Polish cities in summer 2017 - calculated in ArcGIS using Sentinel-2 imagery from ESA Copernicus Programme.
-![Image](26757773_266921627176591_664760967868165779_o.jpg)
+![Image](FEUfgH4WYAQUQO.jpg) 
 
 Percentage of green areas in Polish cities, caluclated using NDVI in ArcGIS derived from Sentinel-2 imagery from ESA Copernicus Programme.
 ![Image](36114236_333305860538167_2291026995540131840_n.jpg)
