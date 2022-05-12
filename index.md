@@ -8,3 +8,4 @@ Check my [Twitter account](https://twitter.com/egrabska) and my [Polska z Sentin
 
 
 ## [More info about me](https://egrabska.github.io/about_me/)
+## [Visualizations](https://egrabska.github.io/visualizations/)
