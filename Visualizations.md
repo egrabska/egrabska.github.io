@@ -16,7 +16,7 @@ Urban areas in Europe - visualization of night lights from Visible Infrared Imag
 ![Image](FEUfgH4WYAQUQO.jpg) 
 
 
-Percentage of green areas in Polish cities, caluclated using NDVI in ArcGIS derived from Sentinel-2 imagery from ESA Copernicus Programme.
+Percentage of green areas in Polish cities, calculated using NDVI in ArcGIS derived from Sentinel-2 imagery from ESA Copernicus Programme.
 
 ![Image](36114236_333305860538167_2291026995540131840_n.jpg)
 
