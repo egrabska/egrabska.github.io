@@ -1,4 +1,3 @@
-
 ---
 layout: page
 theme: jekyll-theme-minimal
@@ -18,3 +17,4 @@ The results of my analysis was published in several papers in the international,
 Remote sensing, particularly optical satellite imagery is my huge passion. 
 
 I am also enthusiast of R language, data science, spatial analysis and visualization, and sharing knowledge! 
+
