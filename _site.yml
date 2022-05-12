@@ -1,1 +1,4 @@
-
+name: "my-website"
+output_dir: "_site"
+include: ["import.R"]
+exclude: ["docs.txt", "*.csv"]
