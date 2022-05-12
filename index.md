@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Ewa Grabska-Szwagrzyk, PhD
 
-You can use the [editor on GitHub](https://github.com/egrabska/egrabska.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! I'm Ewa, PhD in Earth and environmental science, specialized in GIS and remote sensing. 
 
 ### Markdown
 
