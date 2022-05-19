@@ -9,9 +9,14 @@ Hello! I'm Ewa, PhD in Earth and environmental science, specialized in GIS and r
 ## [About me](https://egrabska.github.io/about_me/)
 ## [Visualizations](https://egrabska.github.io/visualizations/)
 ## [Teaching](https://egrabska.github.io/teaching/)
-## [Publications](https://egrabska.github.io/publications/)
+## [Publications and conferences](https://egrabska.github.io/publications/)
+## [Other](https://egrabska.github.io/others/)
+
 
 Check out my:
 [Twitter](https://twitter.com/egrabska) 
 [Research Gate](https://www.researchgate.net/profile/Ewa-Grabska-Szwagrzyk)
 [Linkedin](https://www.linkedin.com/in/ewa-grabska-szwagrzyk-731b30100/)
+[Polska z Sentinela](https://www.facebook.com/polskazsentinela)
+
+[mailto](mailto:aweaksbarg@gmail.com)
