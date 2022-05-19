@@ -1,7 +1,7 @@
 ## Ewa Grabska-Szwagrzyk, PhD
 
 Hello! I'm Ewa, PhD in Earth and environmental science, specialized in GIS and remote sensing. 
-
+I am a scientist and a freelance GIS/remote sensing trainer.
 
 ![Image](96042985_762047990997283_8521755688437809152_n.jpg)
 
