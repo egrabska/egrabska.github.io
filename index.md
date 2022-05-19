@@ -13,10 +13,10 @@ I am a scientist and a freelance GIS/remote sensing trainer.
 ### [Other](https://egrabska.github.io/others/)
 
 
-### Check out my:
+### For more informaton or cooperation 
+[contact me](mailto:aweaksbarg@gmail.com)
+or check out my social media:
 [Twitter](https://twitter.com/egrabska) 
 [Research Gate](https://www.researchgate.net/profile/Ewa-Grabska-Szwagrzyk)
 [Linkedin](https://www.linkedin.com/in/ewa-grabska-szwagrzyk-731b30100/)
 [Polska z Sentinela](https://www.facebook.com/polskazsentinela)
-
-### For more informaton or cooperation [contact me](mailto:aweaksbarg@gmail.com)
