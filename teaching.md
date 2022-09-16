@@ -18,10 +18,9 @@ permalink: /teaching/
 - Why R? Webinar - Satellite imagery analysis in R - see:
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/k1K6nqgtRL8/0.jpg)](http://www.youtube.com/watch?v=k1K6nqgtRL8 "Why R? Webinar 023 - Ewa Grabska - Satellite imagery analysis in R")
 
+Me talking about remote sensing (in Polish):
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/XRNFCAY0gzM/0.jpg)](http://www.youtube.com/watch?v=kXRNFCAY0gzM "")
 
-
-Me talking abour remote sensing (in Polish):
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/XRNFCAY0gzM/0.jpg)]
 
 
 ![Image](ERSlqrIXYAETHvg.jpg)
