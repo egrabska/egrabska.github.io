@@ -20,4 +20,4 @@ permalink: /teaching/
 ![Image](ERSlqrIXYAETHvg.jpg)
 Teaching the basics of satellite imagery processing in R during Spatial Analyses with Free OpenSource Software (SpAnFOSS 2020) workshops at the Faculty of Forestry, University of Agriculture in Kraków.
 
-[![Talking about remote sensing](https://img.youtube.com/vi/XRNFCAY0gzM&t=301s/0.jpg)](https://www.youtube.com/watch?v=XRNFCAY0gzM)
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/XRNFCAY0gzM&t=301s/0.jpg)](https://www.youtube.com/watch?v=XRNFCAY0gzM)
