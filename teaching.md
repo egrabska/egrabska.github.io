@@ -22,5 +22,4 @@ permalink: /teaching/
 Teaching the basics of satellite imagery processing in R during Spatial Analyses with Free OpenSource Software (SpAnFOSS 2020) workshops at the Faculty of Forestry, University of Agriculture in Kraków.
 
 Me talking abour remote sensing (in Polish):
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/XRNFCAY0gzM/0.jpg)(http://www.youtube.com/watch?v=XRNFCAY0gzM "Ziemia z kosmosu | Ewa Grabska-Szwagrzyk w cyklu Nauka Mówi")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/XRNFCAY0gzM/0.jpg)
