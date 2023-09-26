@@ -23,4 +23,4 @@ Teaching the basics of satellite imagery processing in R during Spatial Analyses
 
 ## Lectures
 [Exploring Earth Observation: Discovering Our Planet from Space | Ewa Grabska-Szwagrzyk](https://www.youtube.com/watch?v=k57ZC7bOn0E) 
-![]((https://www.youtube.com/watch?v=k57ZC7bOn0E)
+
